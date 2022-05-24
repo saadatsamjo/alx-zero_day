@@ -1,2 +1,2 @@
 # alx-zero_day
-this is the description of the repo
+I'm now a ALX Student, this is my first repository as a full-stack engineer
